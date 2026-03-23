@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bureau\\IMN410-TP2\\TP2-ProjetD\u00E9part\\IMN401-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFE6E7A-2266-4FC7-B9F6-0B9D9E05BF28}|IMN401-Application\\IMN401-Application.vcxproj|C:\\Bureau\\IMN410-TP2\\TP2-ProjetD\u00E9part\\IMN401-Application\\Materials\\BaseMaterial\\Main-VS.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BFE6E7A-2266-4FC7-B9F6-0B9D9E05BF28}|IMN401-Application\\IMN401-Application.vcxproj|solutionrelative:Materials\\BaseMaterial\\Main-VS.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main-VS.glsl",
+              "DocumentMoniker": "C:\\Bureau\\IMN410-TP2\\TP2-ProjetD\u00E9part\\IMN401-Application\\Materials\\BaseMaterial\\Main-VS.glsl",
+              "RelativeDocumentMoniker": "Materials\\BaseMaterial\\Main-VS.glsl",
+              "ToolTip": "C:\\Bureau\\IMN410-TP2\\TP2-ProjetD\u00E9part\\IMN401-Application\\Materials\\BaseMaterial\\Main-VS.glsl",
+              "RelativeToolTip": "Materials\\BaseMaterial\\Main-VS.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T14:23:02.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
